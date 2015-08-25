@@ -1,0 +1,23 @@
+{
+  "name": "deepstream-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "dependencies": {
+    "deepstream.io": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termosa/deepstream-auth.git"
+  },
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/deepstream-auth/issues"
+  },
+  "homepage": "https://github.com/termosa/deepstream-auth#readme"
+}
